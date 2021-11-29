@@ -157,13 +157,13 @@ body {
   display: none;
 }
 
-.editMode
+.edit-mode
 .list-input-text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode
+.edit-mode
 .elem-label {
   display: none;
 }
